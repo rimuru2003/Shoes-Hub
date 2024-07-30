@@ -81,3 +81,8 @@
     @apply transition-all duration-700 ease-in-out cursor-pointer;
   }
 }
+/* Hide the default scrollbar */
+::-webkit-scrollbar {
+  width: 0;
+  background-color: transparent;
+}
