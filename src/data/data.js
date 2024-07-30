@@ -41,7 +41,7 @@ const heroapi = {
     { imgsrc: vcover2, clip: clip },
     { imgsrc: vcover3, clip: clip },
   ],
-  sociallinks: [
+   sociallinks : [
     { icon: facebook },
     { icon: messenger },
     { icon: instagram },
