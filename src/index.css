@@ -86,3 +86,10 @@
   width: 0;
   background-color: transparent;
 }
+
+
+/* Hide the default scrollbar */
+::-webkit-scrollbar {
+  width: 0;
+  background-color: transparent;
+}
